@@ -20,7 +20,7 @@ To use Chamelo in your chrome browser, follow these steps:
 .
 5. That's it! Now simply click on Chamelo from your extensions to run it.
 
-## Features
+## Expected Features
 
 Chamelo offers a number of features to enhance your web experience. The features include:
 1. FONT SIZE: Change the font size of the web page using the various sizes available. 
@@ -46,5 +46,4 @@ Permissions include tabs and active tabs which helps to manipulate the styles of
 ![image](https://user-images.githubusercontent.com/65999534/185781957-b8328634-1cd9-4899-9886-17973a301efa.png)
 
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
