@@ -40,10 +40,10 @@ Permissions include tabs and active tabs which helps to manipulate the styles of
   <img src="https://raw.githubusercontent.com/tannu610/chamelo/main/chamelo-main/chamelo-ex-SS.png" alt="Chamelo Screen"/>
 </p>
 
-
+<!-- 
 ![image](https://user-images.githubusercontent.com/65999534/185781763-af709c69-0a06-4918-a978-96f9248b58f1.png)
 ![image](https://user-images.githubusercontent.com/65999534/185781826-33c396dd-0375-4aa6-b0d5-2f1583f132ca.png)
-![image](https://user-images.githubusercontent.com/65999534/185781957-b8328634-1cd9-4899-9886-17973a301efa.png)
+![image](https://user-images.githubusercontent.com/65999534/185781957-b8328634-1cd9-4899-9886-17973a301efa.png) -->
 
 
 
