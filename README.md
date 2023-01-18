@@ -1,5 +1,4 @@
-# Hackathon
-
+# chamelo
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1077075/screenshots/15587831/media/1930bc2e9d19b38a74a89207331788eb.gif" alt="CHAMELO!"/>
   <h1 align="center"/>CHAMELO!</h1>
@@ -20,7 +19,7 @@ To use Chamelo in your chrome browser, follow these steps:
 .
 5. That's it! Now simply click on Chamelo from your extensions to run it.
 
-## Expected Features
+## Features
 
 Chamelo offers a number of features to enhance your web experience. The features include:
 1. FONT SIZE: Change the font size of the web page using the various sizes available. 
@@ -34,16 +33,17 @@ Chamelo offers a number of features to enhance your web experience. The features
 Permissions include tabs and active tabs which helps to manipulate the styles of the web page. **NO DATA IS USED BY US.**
 
 
-<!-- ## Screen Shots
+## Screen Shots
  Pop-up interface of the Chamelo! extension.
 <p align="center">
   <img src="https://raw.githubusercontent.com/tannu610/chamelo/main/chamelo-main/chamelo-ex-SS.png" alt="Chamelo Screen"/>
 </p>
- -->
-<!-- 
+
+
 ![image](https://user-images.githubusercontent.com/65999534/185781763-af709c69-0a06-4918-a978-96f9248b58f1.png)
 ![image](https://user-images.githubusercontent.com/65999534/185781826-33c396dd-0375-4aa6-b0d5-2f1583f132ca.png)
-![image](https://user-images.githubusercontent.com/65999534/185781957-b8328634-1cd9-4899-9886-17973a301efa.png) -->
+![image](https://user-images.githubusercontent.com/65999534/185781957-b8328634-1cd9-4899-9886-17973a301efa.png)
 
 
-
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
