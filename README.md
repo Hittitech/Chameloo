@@ -47,3 +47,4 @@ Permissions include tabs and active tabs which helps to manipulate the styles of
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+## By Adnan Sami
